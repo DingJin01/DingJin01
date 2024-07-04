@@ -4,7 +4,9 @@
 
 ### Connect with me:
 📫 You can reach me at Ding.jin01@outlook.com
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ding-jin-icacse23/)
+
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Tjg2l78AAAAJ&hl=en)
 
 
