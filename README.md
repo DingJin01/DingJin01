@@ -1,5 +1,6 @@
 ### Aboute me:
-- 👋 Hi, I’m @DingJin01, I am currently a student at Imperial College London majoring in Applied Computational Science and Engineering.
+- 👋 Hi, I’m @DingJin01, I am currently a research assisstant at The Kong Hong University of Science and Technology (Guangzhou).
+- 🎓 I hold an MSc in Applied Computational Science and Engineering from Imperial College London and a BSc in Applied Mathematics from the University of Liverpool.
 - 👀 I’m interested in applications of operational research and reinforcement learning with applications in intelligent transportation systems and smart power grids.
 
 ### Connect with me:
